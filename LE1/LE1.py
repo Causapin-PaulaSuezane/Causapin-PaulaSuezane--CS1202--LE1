@@ -1,6 +1,8 @@
 # Causapin, Paula Suezane Z.
 # CS-1202
 # Code is created in jupyter notebook and pasted here in vscode
+# SOME FINAL EDITS ARE MADE HERE IN VSCODE.
+# This file is the final output code.
 
 
 
@@ -10,7 +12,7 @@
 
 # Game library for available games
 game_library = {
-    "Donkey Kong": {"copy": 3, "price": 50},
+    "Donkey Kong": {"copy": 3, "price": 2},
     "Super Mario Bros": {"copy": 5, "price": 3},
     "Tetris": {"copy": 2, "price": 1}
 }
